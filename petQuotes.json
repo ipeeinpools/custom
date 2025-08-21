@@ -1,21 +1,21 @@
 { 
 "petQuotes" : [
 	"Do you know where Jelly World is?",
-    	"I'm hungry. Again.",
-    	"Let's go play a game!",
-    	"Zzzz... huh? I wasn't sleeping!",
-    	"Gadgadsgame sounds like fun right now.",
-    	"Let's go exploring!",
-	"Are we going to the battledome today?"
+    "I'm hungry. Again.",
+    "Let's go play a game!",
+    "Zzzz... huh? I wasn't sleeping!",
+    "I feel lucky today. Let's spin something!",
+    "The Haunted Woods has been a little too quiet recently...",
+	"Are we going to the battledome today?",
+	"Gadgadsgame sounds like fun right now.",
+	"Remember not to spend too much time restocking!"
 ],
   "randomPetQuotes" : [
    "{pet} was being annoying earlier!",
    "{pet} was really nice earlier."
   ],
  "petQuotesUser" : [
-	 "peepo, do you really like me?",
-	 "peepo, what should I get you for your birthday?"
+	 "{user}, do you really like me?",
+	 "{user}, what should I get you for your birthday?"
  ]
 }
-
-
